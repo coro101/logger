@@ -11,5 +11,13 @@
     "url": "https://github.com/coro101/logger"
   },
   "author": "swp@laonpeople.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express-winston": "^4.0.5",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "del-cli": "^3.0.1",
+    "typescript": "^4.1.2"
+  }
 }
